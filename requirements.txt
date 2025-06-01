@@ -8,3 +8,4 @@ social-auth-app-django
 django-filter
 openpyxl
 django-cors-headers
+psycopg2
